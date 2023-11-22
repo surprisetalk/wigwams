@@ -13,6 +13,11 @@ project that reduces public reliance on
 | [Uxn](https://100r.co/site/uxn.html)                |       [donate](https://100r.co/site/support.html) |    2020 |     no | 🌲🪶🏰 |
 
 <!--
+potential:
+- IndyMill: https://indystry.cc/indymill/
+--->
+
+<!--
 future columns:
 - image/logo
 - three-word description
@@ -22,8 +27,16 @@ future columns:
 - definition of "done"
 --->
 
+Wigwams we need:
+
+- a dirt-simple OS for practical use [and reuse](https://permacomputing.net)
+- simple/predictable query languages and databases
+  ([email me](mailto:hello@taylor.town) for ideas)
+- alternative to YouTube that smells more like podcasts than cryptocurrency
+  ([email me](mailto:hello@taylor.town) for ideas)
+
 <!--
-need another section for projects that should exist but don't:
+more stuff we need:
 - open spiroligomers
 - synthetic bio
 - ai stuff
