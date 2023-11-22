@@ -4,7 +4,7 @@ A [wigwam](https://taylor.town/pardon-2023#wigwams) is a small-but-mighty
 project that reduces public reliance on
 [battleships](https://taylor.town/pardon-2023#wigwams).
 
-This direcory was created with the following goals:
+## goals
 
 - promote "slow tech" over hype
 - organize project landscape by goals
@@ -13,9 +13,7 @@ This direcory was created with the following goals:
 - keep projects on-schedule and within budget
 - maintain list of "open problems" in need of new wigwams
 
-Feel free to
-[open a PR](https://github.com/surprisetalk/wigwams/edit/main/readme.md) or
-[send me](mailto:hello@taylor.town) suggestions.
+## wigwams
 
 |                                                     |                                                   |  goals | started | stable |
 | --------------------------------------------------- | ------------------------------------------------: | -----: | ------: | -----: |
@@ -35,6 +33,15 @@ future columns:
 - definition of "done"
 --->
 
+<!--
+need another section for projects that should exist but don't:
+- open spiroligomers
+- synthetic bio
+- ai stuff
+--->
+
+## legend
+
 |     |                  |
 | --- | ---------------- |
 | 🏎️  | speed            |
@@ -48,9 +55,8 @@ future columns:
 | 🌈  | fun              |
 | 🧠  | educational      |
 
-<!--
-need another section for projects that should exist but don't:
-- open spiroligomers
-- synthetic bio
-- ai stuff
---->
+## contribute
+
+Feel free to
+[open a PR](https://github.com/surprisetalk/wigwams/edit/main/readme.md) or
+[send me](mailto:hello@taylor.town) suggestions.
