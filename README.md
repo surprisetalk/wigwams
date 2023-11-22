@@ -15,12 +15,12 @@ project that reduces public reliance on
 
 ## wigwams
 
-|                                                     |                                                   |  goals | started | stable |
-| --------------------------------------------------- | ------------------------------------------------: | -----: | ------: | -----: |
-| [Precious Plastic](https://www.preciousplastic.com) | [donate](https://www.preciousplastic.com/support) |     🌲 |    2013 |    yes |
-| [Zig](https://ziglang.org)                          |                [donate](https://ziglang.org/zsf/) | 🪶🏎️🏰 |    2016 |     no |
-| [Roc](https://www.roc-lang.org)                     |    [donate](https://github.com/sponsors/roc-lang) | 🏰🏎️✋ |    2019 |     no |
-| [Uxn](https://100r.co/site/uxn.html)                |       [donate](https://100r.co/site/support.html) | 🌲🪶🏰 |    2020 |     no |
+|                                                     |                                                   | started | stable |  goals |
+| --------------------------------------------------- | ------------------------------------------------: | ------: | -----: | -----: |
+| [Precious Plastic](https://www.preciousplastic.com) | [donate](https://www.preciousplastic.com/support) |    2013 |    yes |     🌲 |
+| [Zig](https://ziglang.org)                          |                [donate](https://ziglang.org/zsf/) |    2016 |     no | 🪶🏎️🏰 |
+| [Roc](https://www.roc-lang.org)                     |    [donate](https://github.com/sponsors/roc-lang) |    2019 |     no | 🏰🏎️✋ |
+| [Uxn](https://100r.co/site/uxn.html)                |       [donate](https://100r.co/site/support.html) |    2020 |     no | 🌲🪶🏰 |
 
 <!--
 future columns:
