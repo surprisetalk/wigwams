@@ -4,8 +4,6 @@ A [wigwam](https://taylor.town/pardon-2023#wigwams) is a small-but-mighty
 project that reduces public reliance on
 [battleships](https://taylor.town/pardon-2023#wigwams).
 
-## wigwams
-
 |                                                     |                                                   | started | stable |  goals |
 | --------------------------------------------------- | ------------------------------------------------: | ------: | -----: | -----: |
 | [RepRap](https://reprap.org/wiki/RepRap)            |                                                   |    2005 |    yes |     ✋ |
