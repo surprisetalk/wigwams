@@ -17,6 +17,7 @@ project that reduces public reliance on
 
 |                                                     |                                                   | started | stable |  goals |
 | --------------------------------------------------- | ------------------------------------------------: | ------: | -----: | -----: |
+| [RepRap](https://reprap.org/wiki/RepRap)            |                                                   |    2005 |    yes |     ✋ |
 | [Precious Plastic](https://www.preciousplastic.com) | [donate](https://www.preciousplastic.com/support) |    2013 |    yes |     🌲 |
 | [Zig](https://ziglang.org)                          |                [donate](https://ziglang.org/zsf/) |    2016 |     no | 🪶🏎️🏰 |
 | [Roc](https://www.roc-lang.org)                     |    [donate](https://github.com/sponsors/roc-lang) |    2019 |     no | 🏰🏎️✋ |
