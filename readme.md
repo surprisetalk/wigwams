@@ -51,13 +51,24 @@ more stuff we need:
 - keep projects on-schedule and within budget
 - maintain list of "open problems" in need of new wigwams
 
+## roadmap
+
+- [ ] more wigwams
+- [ ] rss feed
+- [ ] more wigwam details
+- [ ] dedicated site
+- [ ] sorting/filtering?
+- [ ] detailed wigwam suggestions
+- [ ] learning resources
+- [ ] wigwam commit history stats
+- [ ] wigwam quality stats
+- [ ] talent matching
+
 ## contribute
 
 Feel free to
 [open a PR](https://github.com/surprisetalk/wigwams/edit/main/readme.md) or
 [send me](mailto:hello@taylor.town) suggestions.
-
----
 
 ## legend
 
