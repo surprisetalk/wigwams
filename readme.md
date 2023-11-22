@@ -4,15 +4,6 @@ A [wigwam](https://taylor.town/pardon-2023#wigwams) is a small-but-mighty
 project that reduces public reliance on
 [battleships](https://taylor.town/pardon-2023#wigwams).
 
-## goals
-
-- promote "slow tech" over hype
-- organize project landscape by goals
-- match talent quickly and effectively
-- sustainably fund unsexy infrastructure
-- keep projects on-schedule and within budget
-- maintain list of "open problems" in need of new wigwams
-
 ## wigwams
 
 |                                                     |                                                   | started | stable |  goals |
@@ -54,6 +45,15 @@ need another section for projects that should exist but don't:
 | 🌲  | sustainability   |
 | 🌈  | fun              |
 | 🧠  | educational      |
+
+## goals
+
+- promote "slow tech" over hype
+- organize project landscape by goals
+- match talent quickly and effectively
+- sustainably fund unsexy infrastructure
+- keep projects on-schedule and within budget
+- maintain list of "open problems" in need of new wigwams
 
 ## contribute
 
