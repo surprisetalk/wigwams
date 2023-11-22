@@ -27,7 +27,7 @@ future columns:
 - definition of "done"
 --->
 
-Wigwams we need:
+Wigwams we want:
 
 - a dirt-simple OS for practical use [and reuse](https://permacomputing.net)
 - simple/predictable query languages and databases
@@ -41,21 +41,6 @@ more stuff we need:
 - synthetic bio
 - ai stuff
 --->
-
-## legend
-
-|     |                  |
-| --- | ---------------- |
-| 🏎️  | speed            |
-| 🏰  | reliability      |
-| ♿  | accessibility    |
-| ✋  | ergonomics       |
-| 🪶  | size/weight      |
-| 🔒  | privacy/security |
-| 🌋  | existential      |
-| 🌲  | sustainability   |
-| 🌈  | fun              |
-| 🧠  | educational      |
 
 ## goals
 
@@ -71,3 +56,20 @@ more stuff we need:
 Feel free to
 [open a PR](https://github.com/surprisetalk/wigwams/edit/main/readme.md) or
 [send me](mailto:hello@taylor.town) suggestions.
+
+---
+
+## legend
+
+|     |                  |
+| --- | ---------------- |
+| 🏎️  | speed            |
+| 🏰  | reliability      |
+| ♿  | accessibility    |
+| ✋  | ergonomics       |
+| 🪶  | size/weight      |
+| 🔒  | privacy/security |
+| 🌋  | existential      |
+| 🌲  | sustainability   |
+| 🌈  | fun              |
+| 🧠  | educational      |
