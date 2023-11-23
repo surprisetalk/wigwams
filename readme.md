@@ -11,7 +11,7 @@ project that reduces public reliance on
 | [Zig](https://ziglang.org)                          |                [donate](https://ziglang.org/zsf/) |    2016 |     no | 🪶🏎️🏰 |
 | [Roc](https://www.roc-lang.org)                     |    [donate](https://github.com/sponsors/roc-lang) |    2019 |     no | 🏰🏎️✋ |
 | [Uxn](https://100r.co/site/uxn.html)                |       [donate](https://100r.co/site/support.html) |    2020 |     no | 🌲🪶🏰 |
-| [Dusk OS](https://sr.ht/~vdupras/duskos)            |                                                   |    2022 |     no | 🌲🪶🏰🌋 |
+| [Dusk OS](http://duskos.org)                        |          [donate](http://duskos.org/funding.html) |    2022 |     no | 🌲🏰🌋 |
 
 <!--
 potential:
