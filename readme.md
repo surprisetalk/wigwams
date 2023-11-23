@@ -9,6 +9,7 @@ project that reduces public reliance on
 | [RepRap](https://reprap.org/wiki/RepRap)            |                                                   |    2005 |    yes |   ✋💰 |
 | [Precious Plastic](https://www.preciousplastic.com) | [donate](https://www.preciousplastic.com/support) |    2013 |    yes |   🌲🏡 |
 | [Zig](https://ziglang.org)                          |                [donate](https://ziglang.org/zsf/) |    2016 |     no | 🪶🏎️🏰 |
+| [Cabal](https://cabal.chat)                         |   [donate](https://opencollective.com/cabal-club) |    2018 |     no | 🔒🌲🌈 |
 | [Roc](https://www.roc-lang.org)                     |    [donate](https://github.com/sponsors/roc-lang) |    2019 |     no | 🏰🏎️✋ |
 | [Uxn](https://100r.co/site/uxn.html)                |       [donate](https://100r.co/site/support.html) |    2020 |     no | 🌲🪶🏰 |
 
