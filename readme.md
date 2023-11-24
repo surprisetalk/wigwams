@@ -4,19 +4,22 @@ A [wigwam](https://taylor.town/pardon-2023#wigwams) is a small-but-mighty
 project that reduces public reliance on
 [battleships](https://taylor.town/pardon-2023#wigwams).
 
-|                                                     |                                                   | started | stable |  goals |
-| --------------------------------------------------- | ------------------------------------------------: | ------: | -----: | -----: |
-| [RepRap](https://reprap.org/wiki/RepRap)            |                                                   |    2005 |    yes |   ✋💰 |
-| [Precious Plastic](https://www.preciousplastic.com) | [donate](https://www.preciousplastic.com/support) |    2013 |    yes |   🌲🏡 |
-| [Zig](https://ziglang.org)                          |                [donate](https://ziglang.org/zsf/) |    2016 |     no | 🪶🏎️🏰 |
-| [Roc](https://www.roc-lang.org)                     |    [donate](https://github.com/sponsors/roc-lang) |    2019 |     no | 🏰🏎️✋ |
-| [Uxn](https://100r.co/site/uxn.html)                |       [donate](https://100r.co/site/support.html) |    2020 |     no | 🌲🪶🏰 |
-| [Freewheeling Apps](https://akkartik.name/freewheeling) |                                               |    2022 |     no | 🏡🏰♿ |
-| [Dusk OS](http://duskos.org)                        |          [donate](http://duskos.org/funding.html) |    2022 |     no | 🌲🏰🌋 |
+|                                                         |                                                   | started | stable |  goals |
+| ------------------------------------------------------- | ------------------------------------------------: | ------: | -----: | -----: |
+| [RepRap](https://reprap.org/wiki/RepRap)                |                                                   |    2005 |    yes | ✋💰🏰 |
+| [Precious Plastic](https://www.preciousplastic.com)     | [donate](https://www.preciousplastic.com/support) |    2013 |    yes | 🌲🏡🏰 |
+| [mu](https://github.com/akkartik/mu)                    |                                                   |    2015 |     no | 🏡🏰♿ |
+| [Zig](https://ziglang.org)                              |                [donate](https://ziglang.org/zsf/) |    2016 |     no | 🪶🏎️🏰 |
+| [Gemini](https://geminiprotocol.net)                    |                                                   |    2019 |     no | 🏡🪶🏰 |
+| [Roc](https://www.roc-lang.org)                         |    [donate](https://github.com/sponsors/roc-lang) |    2019 |     no | 🏰🏎️✋ |
+| [Uxn](https://100r.co/site/uxn.html)                    |       [donate](https://100r.co/site/support.html) |    2020 |     no | 🌲🪶🏰 |
+| [Freewheeling Apps](https://akkartik.name/freewheeling) |                                                   |    2022 |     no | 🏡🏰♿ |
+| [Dusk OS](http://duskos.org)                            |          [donate](http://duskos.org/funding.html) |    2022 |     no | 🌲🏰🌋 |
 
 <!--
 potential:
 - IndyMill: https://indystry.cc/indymill/
+- markdown, rss, other existing tech
 --->
 
 <!--
@@ -31,7 +34,9 @@ future columns:
 
 Wigwams we want:
 
+- expressive but small markup languages
 - a dirt-simple OS for practical use [and reuse](https://permacomputing.net)
+- a simple alternative to github, and maybe even git
 - simple/predictable query languages and databases
   ([email me](mailto:hello@taylor.town) for ideas)
 - alternative to YouTube that smells more like podcasts than cryptocurrency
