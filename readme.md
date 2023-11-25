@@ -20,6 +20,9 @@ project that reduces public reliance on
 potential:
 - IndyMill: https://indystry.cc/indymill/
 - markdown, rss, other existing tech
+- light phone
+- oxide servers
+- framework computers
 --->
 
 <!--
@@ -34,13 +37,22 @@ future columns:
 
 Wigwams we want:
 
-- expressive but small markup languages
 - a dirt-simple OS for practical use [and reuse](https://permacomputing.net)
+- tools/guides for "kit" homes that can be constructed from nearby materials,
+  e.g. how to clear patch of forest and build cabin with lumber
 - a simple alternative to github, and maybe even git
 - simple/predictable query languages and databases
   ([email me](mailto:hello@taylor.town) for ideas)
+- scalable diy paper production and printing presses
+- expressive but small visual markup languages
+- kits/guides for making everyday clothes out of fabric and scraps
 - alternative to YouTube that smells more like podcasts than cryptocurrency
   ([email me](mailto:hello@taylor.town) for ideas)
+
+<!--
+more potential wigwams
+- open isps?
+--->
 
 <!--
 more stuff we need:
@@ -76,6 +88,14 @@ more stuff we need:
 Feel free to
 [open a PR](https://github.com/surprisetalk/wigwams/edit/main/readme.md) or
 [send me](mailto:hello@taylor.town) suggestions.
+
+<!--
+other cool projects:
+- [Sivers's Tech Independence](https://sive.rs/ti)
+- whole code catalog
+- permacomputing.org
+- concrete weight set forms
+--->
 
 ## legend
 
