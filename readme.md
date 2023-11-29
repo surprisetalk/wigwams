@@ -23,6 +23,8 @@ potential:
 - light phone
 - oxide servers
 - framework computers
+- https://www.goatcounter.com
+- kagi
 --->
 
 <!--
@@ -37,12 +39,15 @@ future columns:
 
 Wigwams we want:
 
+- affordable DIY motor vehicles
 - a dirt-simple OS for practical use [and reuse](https://permacomputing.net)
 - tools/guides for "kit" homes that can be constructed from nearby materials,
   e.g. how to clear patch of forest and build cabin with lumber
 - a simple alternative to github, and maybe even git
+- tools for converting suburban sprawl into human-scale walkable infrastructure
 - simple/predictable query languages and databases
   ([email me](mailto:hello@taylor.town) for ideas)
+- a simple, open search engine
 - scalable diy paper production and printing presses
 - expressive but small visual markup languages
 - kits/guides for making everyday clothes out of fabric and scraps
