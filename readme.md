@@ -26,6 +26,7 @@ potential:
 - framework computers
 - https://www.goatcounter.com
 - kagi
+- menuet os
 --->
 
 <!--
