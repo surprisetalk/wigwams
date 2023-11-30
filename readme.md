@@ -27,6 +27,8 @@ potential:
 - https://www.goatcounter.com
 - kagi
 - menuet os
+- forth chips
+- parallax propeller processors
 --->
 
 <!--
