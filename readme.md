@@ -29,6 +29,7 @@ potential:
 - menuet os
 - forth chips
 - parallax propeller processors
+- communes/coops?
 --->
 
 <!--
