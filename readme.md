@@ -1,8 +1,16 @@
 # wigwam.directory
 
-A [wigwam](https://taylor.town/pardon-2023#wigwams) is a small-but-mighty
-project that reduces public reliance on
-[battleships](https://taylor.town/pardon-2023#wigwams).
+_Note: Thanks for all the recent feedback! Please don't take any of this too
+seriously right now. Use this repo to bounce ideas and share novel ways people
+are solving established problems._
+
+A [wigwam](https://taylor.town/pardon-2023#wigwams) is a project that reduces
+reliance on [battleships](https://taylor.town/pardon-2023#wigwams).
+
+More specifically, a wigwam is a reasonably-established project that provides
+alternatives to bloat/cruft.
+
+Remember, wigwams aren't better than battleships -- they're not even boats!
 
 |                                                         |                                                   | started | stable |  goals |
 | ------------------------------------------------------- | ------------------------------------------------: | ------: | -----: | -----: |
@@ -19,6 +27,7 @@ project that reduces public reliance on
 
 <!--
 potential:
+- https://woob.tech
 - IndyMill: https://indystry.cc/indymill/
 - markdown, rss, other existing tech
 - light phone
@@ -51,13 +60,13 @@ Wigwams we want:
 - a simple alternative to github, and maybe even git
 - tools for converting suburban sprawl into human-scale walkable infrastructure
 - simple/predictable query languages and databases
-  ([email me](mailto:hello@taylor.town) for ideas)
+  ([email Taylor](mailto:hello@taylor.town) for ideas)
 - a simple, open search engine
 - scalable diy paper production and printing presses
 - expressive but small visual markup languages
 - kits/guides for making everyday clothes out of fabric and scraps
 - alternative to YouTube that smells more like podcasts than cryptocurrency
-  ([email me](mailto:hello@taylor.town) for ideas)
+  ([email Taylor](mailto:hello@taylor.town) for ideas)
 
 <!--
 more potential wigwams
@@ -72,6 +81,8 @@ more stuff we need:
 --->
 
 ## goals
+
+<!-- A wigwam can be open-sourced or venture-backed or whatever. -->
 
 - promote "slow tech" over hype
 - organize project landscape by goals
