@@ -11,6 +11,7 @@ More specifically, a wigwam is a reasonably-established project that provides
 alternatives to bloat/cruft.
 
 Remember, wigwams aren't better than battleships -- they're not even boats!
+Let's celebrate novelty and learn to build together.
 
 |                                                         |                                                   | started | stable |  goals |
 | ------------------------------------------------------- | ------------------------------------------------: | ------: | -----: | -----: |
