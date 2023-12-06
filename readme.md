@@ -19,6 +19,7 @@ Let's celebrate novelty and learn to build together.
 | [Precious Plastic](https://www.preciousplastic.com)     | [donate](https://www.preciousplastic.com/support) |    2013 |    yes | 🌲🏡🏰 |
 | [mu](https://github.com/akkartik/mu)                    |                                                   |    2015 |     no | 🏡🏰♿ |
 | [Zig](https://ziglang.org)                              |                [donate](https://ziglang.org/zsf/) |    2016 |     no | 🪶🏎️🏰 |
+| [sourcehut](http://sourcehut.org)                       |                                                   |    2019 |     no | 🪶💰🏡 |
 | [Gemini](https://geminiprotocol.net)                    |                                                   |    2019 |     no | 🏡🪶🏰 |
 | [Roc](https://www.roc-lang.org)                         |    [donate](https://github.com/sponsors/roc-lang) |    2019 |     no | 🏰🏎️✋ |
 | [Uxn](https://100r.co/site/uxn.html)                    |       [donate](https://100r.co/site/support.html) |    2020 |     no | 🌲🪶🏰 |
@@ -61,7 +62,6 @@ Wigwams we want:
 - a dirt-simple OS for practical use [and reuse](https://permacomputing.net)
 - tools/guides for "kit" homes that can be constructed from nearby materials,
   e.g. how to clear patch of forest and build cabin with lumber
-- a simple alternative to github, and maybe even git
 - tools for converting suburban sprawl into human-scale walkable infrastructure
 - simple/predictable query languages and databases
   ([email Taylor](mailto:hello@taylor.town) for ideas)
