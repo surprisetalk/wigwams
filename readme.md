@@ -30,7 +30,7 @@ Let's celebrate novelty and learn to build together.
 potential:
 - https://woob.tech
 - IndyMill: https://indystry.cc/indymill/
-- markdown, rss, other existing tech
+- markdown, irc, rss, other existing tech
 - light phone
 - oxide servers
 - framework computers
@@ -40,6 +40,9 @@ potential:
 - forth chips
 - parallax propeller processors
 - communes/coops?
+- https://www.radiotopia.fm/donate
+- viewpoints research institute
+- fairphone
 --->
 
 <!--
