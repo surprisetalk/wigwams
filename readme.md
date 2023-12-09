@@ -44,6 +44,8 @@ potential:
 - https://www.radiotopia.fm/donate
 - viewpoints research institute
 - fairphone
+- https://www.opensourceecology.org
+- https://blot.im
 --->
 
 <!--
@@ -75,6 +77,7 @@ Wigwams we want:
 <!--
 more potential wigwams
 - open isps?
+- tiny browser
 --->
 
 <!--
