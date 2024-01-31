@@ -1,17 +1,15 @@
 # wigwam.directory
 
-_Note: Thanks for all the recent feedback! Please don't take any of this too
-seriously right now. Use this repo to bounce ideas and share novel ways people
-are solving established problems._
+_Note: Thanks for all the recent feedback! Please don't take any of this too seriously right now. Use this repo to
+bounce ideas and share novel ways people are solving established problems._
 
-A [wigwam](https://taylor.town/pardon-2023#wigwams) is a project that reduces
-reliance on [battleships](https://taylor.town/pardon-2023#wigwams).
+A [wigwam](https://taylor.town/pardon-2023#wigwams) is a project that reduces reliance on
+[battleships](https://taylor.town/pardon-2023#wigwams).
 
-More specifically, a wigwam is a reasonably-established project that provides
-alternatives to bloat/cruft.
+More specifically, a wigwam is a reasonably-established project that provides alternatives to bloat/cruft.
 
-Remember, wigwams aren't better than battleships -- they're not even boats!
-Let's celebrate novelty and learn to build together.
+Remember, wigwams aren't better than battleships -- they're not even boats! Let's celebrate novelty and learn to build
+together.
 
 |                                                         |                                                   | started | stable |  goals |
 | ------------------------------------------------------- | ------------------------------------------------: | ------: | -----: | -----: |
@@ -22,6 +20,7 @@ Let's celebrate novelty and learn to build together.
 | [sourcehut](http://sourcehut.org)                       |                                                   |    2019 |     no | 🪶💰🏡 |
 | [Gemini](https://geminiprotocol.net)                    |                                                   |    2019 |     no | 🏡🪶🏰 |
 | [Roc](https://www.roc-lang.org)                         |    [donate](https://github.com/sponsors/roc-lang) |    2019 |     no | 🏰🏎️✋ |
+| [Learn MYOG](https://learnmyog.com/)                    |                                                   |    2020 |    yes | 🏡🌲💰 |
 | [Uxn](https://100r.co/site/uxn.html)                    |       [donate](https://100r.co/site/support.html) |    2020 |     no | 🌲🪶🏰 |
 | [Hare](https://harelang.org)                            |                                                   |    2022 |     no | 🪶🏰🌋 |
 | [Freewheeling Apps](https://akkartik.name/freewheeling) |                                                   |    2022 |     no | 🏡🏰♿ |
@@ -62,17 +61,16 @@ Wigwams we want:
 
 - affordable DIY motor vehicles
 - a dirt-simple OS for practical use [and reuse](https://permacomputing.net)
-- tools/guides for "kit" homes that can be constructed from nearby materials,
-  e.g. how to clear patch of forest and build cabin with lumber
+- tools/guides for "kit" homes that can be constructed from nearby materials, e.g. how to clear patch of forest and
+  build cabin with lumber
 - tools for converting suburban sprawl into human-scale walkable infrastructure
-- simple/predictable query languages and databases
-  ([email Taylor](mailto:hello@taylor.town) for ideas)
+- simple/predictable query languages and databases ([email Taylor](mailto:hello@taylor.town) for ideas)
 - a simple, open search engine
 - scalable diy paper production and printing presses
 - expressive but small visual markup languages
 - kits/guides for making everyday clothes out of fabric and scraps
-- alternative to YouTube that smells more like podcasts than cryptocurrency
-  ([email Taylor](mailto:hello@taylor.town) for ideas)
+- alternative to YouTube that smells more like podcasts than cryptocurrency ([email Taylor](mailto:hello@taylor.town)
+  for ideas)
 
 <!--
 more potential wigwams
@@ -113,8 +111,7 @@ more stuff we need:
 
 ## contribute
 
-Feel free to
-[open a PR](https://github.com/surprisetalk/wigwams/edit/main/readme.md) or
+Feel free to [open a PR](https://github.com/surprisetalk/wigwams/edit/main/readme.md) or
 [send me](mailto:hello@taylor.town) suggestions.
 
 <!--
@@ -130,7 +127,7 @@ other cool projects:
 |     |                  |
 | --- | ---------------- |
 | 🏎️  | speed            |
-| 💰  | affordable       |
+| 💰  | affordability    |
 | 🏡  | local            |
 | 🏰  | reliability      |
 | ♿  | accessibility    |
