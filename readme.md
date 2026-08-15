@@ -11,20 +11,35 @@ More specifically, a wigwam is a reasonably-established project that provides al
 Remember, wigwams aren't better than battleships -- they're not even boats! Let's celebrate novelty and learn to build
 together.
 
-|                                                         |                                                   | started | stable |  goals |
-| ------------------------------------------------------- | ------------------------------------------------: | ------: | -----: | -----: |
-| [RepRap](https://reprap.org/wiki/RepRap)                |                                                   |    2005 |    yes | ✋💰🏰 |
-| [Precious Plastic](https://www.preciousplastic.com)     | [donate](https://www.preciousplastic.com/support) |    2013 |    yes | 🌲🏡🏰 |
-| [mu](https://github.com/akkartik/mu)                    |                                                   |    2015 |     no | 🏡🏰♿ |
-| [Zig](https://ziglang.org)                              |                [donate](https://ziglang.org/zsf/) |    2016 |     no | 🪶🏎️🏰 |
-| [sourcehut](http://sourcehut.org)                       |                                                   |    2019 |     no | 🪶💰🏡 |
-| [Gemini](https://geminiprotocol.net)                    |                                                   |    2019 |     no | 🏡🪶🏰 |
-| [Roc](https://www.roc-lang.org)                         |    [donate](https://github.com/sponsors/roc-lang) |    2019 |     no | 🏰🏎️✋ |
-| [Learn MYOG](https://learnmyog.com/)                    |                                                   |    2020 |    yes | 🏡🌲💰 |
-| [Uxn](https://100r.co/site/uxn.html)                    |       [donate](https://100r.co/site/support.html) |    2020 |     no | 🌲🪶🏰 |
-| [Hare](https://harelang.org)                            |                                                   |    2022 |     no | 🪶🏰🌋 |
-| [Freewheeling Apps](https://akkartik.name/freewheeling) |                                                   |    2022 |     no | 🏡🏰♿ |
-| [Dusk OS](http://duskos.org)                            |          [donate](http://duskos.org/funding.html) |    2022 |     no | 🌲🏰🌋 |
+|                                                                          |                                                     | started | stable |  goals |
+| ------------------------------------------------------------------------ | --------------------------------------------------: | ------: | -----: | -----: |
+| [RepRap](https://reprap.org/wiki/RepRap)                                 |                                                     |    2005 |    yes | ✋💰🏰 |
+| [Low-tech Magazine](https://solar.lowtechmagazine.com)                   | [donate](https://solar.lowtechmagazine.com/donate/) |    2007 |    yes | 🌲🧠🪶 |
+| [IBNIZ](https://github.com/viznut/IBNIZ)                                 |                                                     |    2012 |    yes | 🪶🌈🏎️ |
+| [Precious Plastic](https://www.preciousplastic.com)                      |   [donate](https://www.preciousplastic.com/support) |    2013 |    yes | 🌲🏡🏰 |
+| [mu](https://github.com/akkartik/mu)                                     |                                                     |    2015 |     no | 🏡🏰♿ |
+| [Screenless Office](http://screenl.es)                                   |                                                     |    2015 |     no | 🌲✋🌈 |
+| [Zig](https://ziglang.org)                                               |                  [donate](https://ziglang.org/zsf/) |    2016 |     no | 🪶🏎️🏰 |
+| [postmarketOS](https://postmarketos.org)                                 |          [donate](https://postmarketos.org/donate/) |    2017 |     no | 🌲🔒♿ |
+| [sourcehut](http://sourcehut.org)                                        |                                                     |    2019 |     no | 🪶💰🏡 |
+| [Gemini](https://geminiprotocol.net)                                     |                                                     |    2019 |     no | 🏡🪶🏰 |
+| [Roc](https://www.roc-lang.org)                                          |      [donate](https://github.com/sponsors/roc-lang) |    2019 |     no | 🏰🏎️✋ |
+| [Collapse OS](http://collapseos.org)                                     |                                                     |    2019 |    yes | 🌋🌲🪶 |
+| [Civboot](https://github.com/civboot/civboot)                            |                                                     |    2019 |     no | 🌋🌲🏡 |
+| [Learn MYOG](https://learnmyog.com/)                                     |                                                     |    2020 |    yes | 🏡🌲💰 |
+| [Uxn](https://100r.co/site/uxn.html)                                     |         [donate](https://100r.co/site/support.html) |    2020 |     no | 🌲🪶🏰 |
+| [Solar Protocol](http://solarprotocol.net)                               |                                                     |    2020 |    yes | 🌲🏡🧠 |
+| [Cable](https://github.com/cabal-club/cable)                             |                                                     |    2021 |     no | 🪶🔒🏡 |
+| [Compudanzas](https://compudanzas.net)                                   |         [donate](https://liberapay.com/compudanzas) |    2021 |     no | 🧠🌈🪶 |
+| [Teliva](https://github.com/akkartik/teliva)                             |                                                     |    2021 |     no | 🏡🧠♿ |
+| [Hare](https://harelang.org)                                             |                                                     |    2022 |     no | 🪶🏰🌋 |
+| [Freewheeling Apps](https://akkartik.name/freewheeling)                  |                                                     |    2022 |     no | 🏡🏰♿ |
+| [Dusk OS](http://duskos.org)                                             |            [donate](http://duskos.org/funding.html) |    2022 |     no | 🌲🏰🌋 |
+| [Cerca](https://cblgh.org/cerca)                                         |                                                     |    2022 |    yes | 🪶🏡✋ |
+| [Seppo](https://seppo.mro.name)                                          |                                                     |    2022 |     no | 🪶🏡🔒 |
+| [snac](https://codeberg.org/grunfink/snac2)                              |            [donate](https://liberapay.com/grunfink) |    2022 |    yes | 🪶🏰🔒 |
+| [Watt Wiser](https://github.com/wattwisegames/watt-wiser)                |                                                     |    2024 |     no | 🌲🧠🪶 |
+| [The People's Permacomputer](https://sr.ht/~vidak/peoples-permacomputer) |                                                     |    2024 |     no | 🌋🌲🏰 |
 
 <!--
 potential:
@@ -45,6 +60,19 @@ potential:
 - fairphone
 - https://www.opensourceecology.org
 - https://blot.im
+- from https://permacomputing.net/projects/
+  - Awesome Small Web Publishing: https://codeberg.org/thgie/awesome-small-web-publishing
+  - Chifir: https://permacomputing.net/Chifir/
+  - Coalescent Computer: https://coalescent.computer (site was down 2026-08)
+  - DawnOS: https://permacomputing.net/DawnOS/
+  - L5: https://l5lua.org (started 2025, still new)
+  - Organised Atoms: https://permacomputing.net/organised_atoms/
+  - PADI: https://permacomputing.net/PADI/
+  - Small File Photo Festival: https://unthinking.photography/projects/smallfile
+  - What Remains: https://iodinedynamics.com/whatremains.html
+  - digicam.love: https://digicam.love
+  - node9: http://www.node9.org
+  - open source gardens: https://opensourcegardens.info
 --->
 
 <!--
