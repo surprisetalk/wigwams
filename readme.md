@@ -1,7 +1,7 @@
 # wigwam.directory
 
-_Note: Thanks for all the recent feedback! Please don't take any of this too seriously right now. Use this repo to
-bounce ideas and share novel ways people are solving established problems._
+_Note: Please don't take any of this too seriously. Use this repo to bounce ideas and share novel ways people are
+solving established problems._
 
 A [wigwam](https://taylor.town/pardon-2023#wigwams) is a project that reduces reliance on
 [battleships](https://taylor.town/pardon-2023#wigwams).
@@ -15,31 +15,39 @@ together.
 | ------------------------------------------------------------------------ | --------------------------------------------------: | ------: | -----: | -----: |
 | [RepRap](https://reprap.org/wiki/RepRap)                                 |                                                     |    2005 |    yes | ✋💰🏰 |
 | [Low-tech Magazine](https://solar.lowtechmagazine.com)                   | [donate](https://solar.lowtechmagazine.com/donate/) |    2007 |    yes | 🌲🧠🪶 |
+| [WikiHouse](https://www.wikihouse.cc)                                    |                                                     |    2011 |    yes | 🏡🌲💰 |
 | [IBNIZ](https://github.com/viznut/IBNIZ)                                 |                                                     |    2012 |    yes | 🪶🌈🏎️ |
 | [Precious Plastic](https://www.preciousplastic.com)                      |   [donate](https://www.preciousplastic.com/support) |    2013 |    yes | 🌲🏡🏰 |
 | [mu](https://github.com/akkartik/mu)                                     |                                                     |    2015 |     no | 🏡🏰♿ |
 | [Screenless Office](http://screenl.es)                                   |                                                     |    2015 |     no | 🌲✋🌈 |
 | [Zig](https://ziglang.org)                                               |                  [donate](https://ziglang.org/zsf/) |    2016 |     no | 🪶🏎️🏰 |
 | [postmarketOS](https://postmarketos.org)                                 |          [donate](https://postmarketos.org/donate/) |    2017 |     no | 🌲🔒♿ |
+| [FreeSewing](https://freesewing.eu)                                      |        [donate](https://freesewing.eu/patrons/join) |    2017 |    yes | 🏡💰🧠 |
+| [PeerTube](https://joinpeertube.org)                                     |        [donate](https://soutenir.framasoft.org/en/) |    2018 |    yes | 🏡🪶🌈 |
 | [sourcehut](http://sourcehut.org)                                        |                                                     |    2019 |     no | 🪶💰🏡 |
-| [Gemini](https://geminiprotocol.net)                                     |                                                     |    2019 |     no | 🏡🪶🏰 |
+| [Gemini](https://geminiprotocol.net)                                     |                                                     |    2019 |    yes | 🏡🪶🏰 |
 | [Roc](https://www.roc-lang.org)                                          |      [donate](https://github.com/sponsors/roc-lang) |    2019 |     no | 🏰🏎️✋ |
 | [Collapse OS](http://collapseos.org)                                     |                                                     |    2019 |    yes | 🌋🌲🪶 |
 | [Civboot](https://github.com/civboot/civboot)                            |                                                     |    2019 |     no | 🌋🌲🏡 |
+| [MNT Reform](https://mntre.com/reform.html)                              |                                                     |    2019 |    yes | 🏡🔒✋ |
 | [Learn MYOG](https://learnmyog.com/)                                     |                                                     |    2020 |    yes | 🏡🌲💰 |
 | [Uxn](https://100r.co/site/uxn.html)                                     |         [donate](https://100r.co/site/support.html) |    2020 |     no | 🌲🪶🏰 |
 | [Solar Protocol](http://solarprotocol.net)                               |                                                     |    2020 |    yes | 🌲🏡🧠 |
 | [Cable](https://github.com/cabal-club/cable)                             |                                                     |    2021 |     no | 🪶🔒🏡 |
 | [Compudanzas](https://compudanzas.net)                                   |         [donate](https://liberapay.com/compudanzas) |    2021 |     no | 🧠🌈🪶 |
-| [Teliva](https://github.com/akkartik/teliva)                             |                                                     |    2021 |     no | 🏡🧠♿ |
+| [Marginalia Search](https://marginalia-search.com)                       |     [donate](https://www.patreon.com/marginalia_nu) |    2021 |    yes | 🪶🌈🧠 |
 | [Hare](https://harelang.org)                                             |                                                     |    2022 |     no | 🪶🏰🌋 |
 | [Freewheeling Apps](https://akkartik.name/freewheeling)                  |                                                     |    2022 |     no | 🏡🏰♿ |
 | [Dusk OS](http://duskos.org)                                             |            [donate](http://duskos.org/funding.html) |    2022 |     no | 🌲🏰🌋 |
 | [Cerca](https://cblgh.org/cerca)                                         |                                                     |    2022 |    yes | 🪶🏡✋ |
 | [Seppo](https://seppo.mro.name)                                          |                                                     |    2022 |     no | 🪶🏡🔒 |
 | [snac](https://codeberg.org/grunfink/snac2)                              |            [donate](https://liberapay.com/grunfink) |    2022 |    yes | 🪶🏰🔒 |
+| [Forgejo](https://forgejo.org)                                           |               [donate](https://donate.codeberg.org) |    2022 |    yes | 🏡🏰🪶 |
+| [Ladybird](https://ladybird.org)                                         |                                                     |    2022 |     no | 🏰🔒🌈 |
 | [Watt Wiser](https://github.com/wattwisegames/watt-wiser)                |                                                     |    2024 |     no | 🌲🧠🪶 |
 | [The People's Permacomputer](https://sr.ht/~vidak/peoples-permacomputer) |                                                     |    2024 |     no | 🌋🌲🏰 |
+
+_Stable means you can use it today and expect no breaking changes._
 
 <!--
 potential:
@@ -60,6 +68,10 @@ potential:
 - fairphone
 - https://www.opensourceecology.org
 - https://blot.im
+- https://bearblog.dev
+- https://owncast.online
+- https://github.com/jart/cosmopolitan
+- https://typst.app
 - from https://permacomputing.net/projects/
   - Awesome Small Web Publishing: https://codeberg.org/thgie/awesome-small-web-publishing
   - Chifir: https://permacomputing.net/Chifir/
@@ -93,7 +105,6 @@ Wigwams we want:
   build cabin with lumber
 - tools for converting suburban sprawl into human-scale walkable infrastructure
 - simple/predictable query languages and databases ([email Taylor](mailto:hello@taylor.town) for ideas)
-- a simple, open search engine
 - scalable diy paper production and printing presses
 - expressive but small visual markup languages
 - kits/guides for making everyday clothes out of fabric and scraps
